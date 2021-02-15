@@ -1,3 +1,3 @@
 # go-bookstore-utils
 
-Utils for bookstore go microservices
+Go Bookstore Microservices. This repository contains utils.
